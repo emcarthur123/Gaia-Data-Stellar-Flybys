@@ -3,13 +3,13 @@ This is the main code unaltered with the issue of impulses unresolved. Ive inclu
 
 Link to Papers:\
 *New stellar encounters*\
-https://arxiv.org/pdf/1805.07581.pdf \
+https://arxiv.org/pdf/1805.07581.pdf
 
 *A Search for the Origin of Interstellar Comet Bobylev*\
-https://arxiv.org/abs/1912.10213 \
+https://arxiv.org/abs/1912.10213
 
 *Close Encounters of the Stellar Kind*\
-https://arxiv.org/abs/1412.3648 \
+https://arxiv.org/abs/1412.3648
 
 *Future Stellar Flybys of the Voyager Spacecraft*\
 https://arxiv.org/abs/1912.03503 
