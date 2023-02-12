@@ -1,7 +1,7 @@
 # Stellar Flybys
 This is the main code unaltered with the issue of impulses unresolved. Ive included the files that are needed to run the code as well as the extra files that are found in the GCNS drop box folder just in case.
 
-**Link to Papers:**\
+**Link to 4 Important Papers:**\
 *New stellar encounters*\
 https://arxiv.org/pdf/1805.07581.pdf
 
